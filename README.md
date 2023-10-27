@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shreygohel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shrey Gohel
+- 👀 I’m interested in learning new things everyday.
+- 🌱 I’m currently learning JAVA, PYTHON & .NET.
+- 💞️ I’m looking to collaborate. 
+- 📫 You can contact me via email & Linkin.
 
 <!---
 shreygohel/shreygohel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
