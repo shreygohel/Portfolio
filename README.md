@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things everyday.
 - 🌱 I’m currently learning JAVA, PYTHON & .NET.
 - 💞️ I’m looking to collaborate. 
-- 📫 You can contact me via email & Linkin.
+- 📫 You can contact me via Email & Linkedin.
 
 <!---
 shreygohel/shreygohel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
