@@ -319,7 +319,7 @@ section {
 /* EXPERIENCE SECTION */
 
 #experience {
-  position: relative;
+  position:static;
 }
 
 .experience-sub-title {
@@ -338,10 +338,10 @@ section {
 .article-container {
   display: flex;
   text-align: initial;
-  flex-wrap: wrap;
+  flex-wrap:nowrap;
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: auto;
+  justify-content:flex-start;
 }
 
 article {
