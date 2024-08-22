@@ -336,7 +336,6 @@ section {
 }
 
 .article-container {
-  display: flex;
   text-align: initial;
   flex-wrap:nowrap;
   flex-direction: row;
